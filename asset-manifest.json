@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ylee9994/dqflex-example-main2.git/static/css/main.190e8e4e.chunk.css",
+    "main.js": "/ylee9994/dqflex-example-main2.git/static/js/main.049a01bb.chunk.js",
+    "main.js.map": "/ylee9994/dqflex-example-main2.git/static/js/main.049a01bb.chunk.js.map",
+    "runtime-main.js": "/ylee9994/dqflex-example-main2.git/static/js/runtime-main.513c2369.js",
+    "runtime-main.js.map": "/ylee9994/dqflex-example-main2.git/static/js/runtime-main.513c2369.js.map",
+    "static/js/2.163b2658.chunk.js": "/ylee9994/dqflex-example-main2.git/static/js/2.163b2658.chunk.js",
+    "static/js/2.163b2658.chunk.js.map": "/ylee9994/dqflex-example-main2.git/static/js/2.163b2658.chunk.js.map",
+    "index.html": "/ylee9994/dqflex-example-main2.git/index.html",
+    "static/css/main.190e8e4e.chunk.css.map": "/ylee9994/dqflex-example-main2.git/static/css/main.190e8e4e.chunk.css.map",
+    "static/js/2.163b2658.chunk.js.LICENSE.txt": "/ylee9994/dqflex-example-main2.git/static/js/2.163b2658.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.513c2369.js",
+    "static/js/2.163b2658.chunk.js",
+    "static/css/main.190e8e4e.chunk.css",
+    "static/js/main.049a01bb.chunk.js"
+  ]
+}
